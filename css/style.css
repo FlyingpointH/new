@@ -145,6 +145,7 @@ margin-right: 11px;
     background-color: #ffffff;
     width: 552px;
     height: 347px;
+    margin-bottom: 90px;
 }
 .youtube-channel {
 display: flex;
@@ -187,7 +188,7 @@ display: flex;
 .imgs {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-direction: row;
     padding-left: 111px;
     padding-right: 50px;
@@ -202,14 +203,17 @@ display: flex;
     background-color: #f1f1f1;
 }
 .requisites {
+    margin-bottom: 60px;
     margin-top: 60px;
     margin-left: 114px;
 }
 .information {
+    margin-bottom: 60px;
     margin-top: 59px;
     padding-left: 140px;
 }
 .contacts {
+    margin-bottom: 60px;
     margin-top: 59px;
     padding-left: 158px;
 }
